@@ -367,4 +367,5 @@ change the fallback into a plain tag:
 Source code: MIT. All assets are generated at runtime by the code in this repository, so there are
 no third-party asset licences to track. A-Frame is MIT licensed.
 #   g a m e  
+ #   w e b g a m e  
  
